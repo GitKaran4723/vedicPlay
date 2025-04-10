@@ -1,0 +1,17 @@
+[
+    {
+      "id": "subtract-from-base",
+      "title": "Subtract from Base",
+      "video": "https://www.youtube.com/watch?v=abcd1234",
+      "script": "modules/subtract-from-base.js",
+      "localStoragePrefix": "base_subtract"
+    },
+    {
+      "id": "multiplication-by-9s",
+      "title": "Multiply by 9s",
+      "video": "https://www.youtube.com/watch?v=wxyz5678",
+      "script": "modules/multiplication-by-9s.js",
+      "localStoragePrefix": "mult_by_9"
+    }
+  ]
+  
